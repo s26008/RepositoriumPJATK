@@ -1,1 +1,1 @@
-# RepositoriumPJATK
+# RepozytoriumPJATK
